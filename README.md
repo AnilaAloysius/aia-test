@@ -24,6 +24,14 @@ THINGS TO CALL OUT
 4. I have considered all the type of images like, JPG,GIF and MP4
    For videos, I am displaying only the video thumbnail.
 
+COMPILE AND RUN
+
+1. You can run this app for versions LolliPop(SDK 22) and above
+
+2. You can either run in the emulator or in any Android device
+
+3. You can choose the build varient release for a minified apk or a debug varient.
+
 LIBRARIES USED
 
 Glide - For image loading

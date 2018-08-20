@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AIATest</string>
+    <string name="search_hint">Search</string>
+    <string name="empty_field">Please enter a search query</string>
+    <string name="error_internet" >A  network connection is required to complete the task.Please connect to a Wi - Fi or cellular network</string>
+    <string name="no_network_header">No Network Connection</string>
+    <string name="no_item_display">Sorry, No Items to display</string>
+    <string name="error_response">Some error happened,Please try again later</string>
+    <string name="error_header">Error</string>
+</resources>
